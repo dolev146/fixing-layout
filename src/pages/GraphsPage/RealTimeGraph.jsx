@@ -3,7 +3,7 @@ import UplotReact from "uplot-react";
 import "uplot/dist/uPlot.min.css";
 
 const options = {
-  width: 200,
+  width: 260,
   height: 200,
   scales: {
     x: {
